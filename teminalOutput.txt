@@ -1,0 +1,3018 @@
+Script started on 2020-05-04 14:10:07-0700
+]0;resonance@resonance-VirtualBox: ~/Desktop/Final semaphore[01;32mresonance@resonance-VirtualBox[00m:[01;34m~/Desktop/Final semaphore[00m$ bash run.sh
+(Customer PID: 7527) PLACED THEIR ORDER #1/100
+(Customer PID: 7527) ORDER #1/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #2/100
+(Customer PID: 7527) ORDER #2/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #1/100
+(Customer PID: 7535) ORDER #1/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #1/100
+(Customer PID: 7536) ORDER #1/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #1/100
+(Customer PID: 7537) ORDER #1/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #1/100
+(Customer PID: 7534) ORDER #1/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #1/100
+(Customer PID: 7533) ORDER #1/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #1/100
+(Customer PID: 7532) ORDER #1/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #1/100
+(Customer PID: 7531) ORDER #1/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #1/100
+(Customer PID: 7530) ORDER #1/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #1/100
+(Customer PID: 7529) ORDER #1/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #3/100
+(Customer PID: 7527) ORDER #3/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #2/100
+(Customer PID: 7535) ORDER #2/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #2/100
+(Customer PID: 7536) ORDER #2/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #2/100
+(Customer PID: 7537) ORDER #2/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #2/100
+(Customer PID: 7534) ORDER #2/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #2/100
+(Customer PID: 7533) ORDER #2/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #2/100
+(Customer PID: 7532) ORDER #2/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #2/100
+(Customer PID: 7531) ORDER #2/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #2/100
+(Customer PID: 7530) ORDER #2/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #2/100
+(Customer PID: 7529) ORDER #2/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #4/100
+(Customer PID: 7527) ORDER #4/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #3/100
+(Customer PID: 7535) ORDER #3/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #3/100
+(Customer PID: 7536) ORDER #3/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #3/100
+(Customer PID: 7537) ORDER #3/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #3/100
+(Customer PID: 7534) ORDER #3/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #3/100
+(Customer PID: 7533) ORDER #3/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #3/100
+(Customer PID: 7532) ORDER #3/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #3/100
+(Customer PID: 7531) ORDER #3/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #3/100
+(Customer PID: 7530) ORDER #3/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #3/100
+(Customer PID: 7529) ORDER #3/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #5/100
+(Customer PID: 7527) ORDER #5/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #4/100
+(Customer PID: 7535) ORDER #4/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #4/100
+(Customer PID: 7536) ORDER #4/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #4/100
+(Customer PID: 7537) ORDER #4/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #4/100
+(Customer PID: 7534) ORDER #4/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #4/100
+(Customer PID: 7533) ORDER #4/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #4/100
+(Customer PID: 7532) ORDER #4/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #4/100
+(Customer PID: 7531) ORDER #4/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #4/100
+(Customer PID: 7530) ORDER #4/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #4/100
+(Customer PID: 7529) ORDER #4/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #6/100
+(Customer PID: 7527) ORDER #6/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #5/100
+(Customer PID: 7535) ORDER #5/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #5/100
+(Customer PID: 7536) ORDER #5/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #5/100
+(Customer PID: 7537) ORDER #5/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #5/100
+(Customer PID: 7534) ORDER #5/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #5/100
+(Customer PID: 7533) ORDER #5/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #5/100
+(Customer PID: 7532) ORDER #5/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #5/100
+(Customer PID: 7531) ORDER #5/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #5/100
+(Customer PID: 7530) ORDER #5/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #5/100
+(Customer PID: 7529) ORDER #5/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #7/100
+(Customer PID: 7527) ORDER #7/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #6/100
+(Customer PID: 7535) ORDER #6/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #6/100
+(Customer PID: 7536) ORDER #6/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #6/100
+(Customer PID: 7537) ORDER #6/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #6/100
+(Customer PID: 7534) ORDER #6/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #6/100
+(Customer PID: 7533) ORDER #6/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #6/100
+(Customer PID: 7532) ORDER #6/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #6/100
+(Customer PID: 7531) ORDER #6/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #6/100
+(Customer PID: 7530) ORDER #6/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #6/100
+(Customer PID: 7529) ORDER #6/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #8/100
+(Customer PID: 7527) ORDER #8/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #7/100
+(Customer PID: 7535) ORDER #7/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #7/100
+(Customer PID: 7536) ORDER #7/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #7/100
+(Customer PID: 7537) ORDER #7/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #7/100
+(Customer PID: 7534) ORDER #7/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #7/100
+(Customer PID: 7533) ORDER #7/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #7/100
+(Customer PID: 7532) ORDER #7/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #7/100
+(Customer PID: 7531) ORDER #7/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #7/100
+(Customer PID: 7530) ORDER #7/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #7/100
+(Customer PID: 7529) ORDER #7/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #9/100
+(Customer PID: 7527) ORDER #9/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #8/100
+(Customer PID: 7535) ORDER #8/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #8/100
+(Customer PID: 7536) ORDER #8/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #8/100
+(Customer PID: 7537) ORDER #8/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #8/100
+(Customer PID: 7534) ORDER #8/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #8/100
+(Customer PID: 7533) ORDER #8/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #8/100
+(Customer PID: 7532) ORDER #8/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #8/100
+(Customer PID: 7531) ORDER #8/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #8/100
+(Customer PID: 7530) ORDER #8/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #8/100
+(Customer PID: 7529) ORDER #8/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #10/100
+(Customer PID: 7527) ORDER #10/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #9/100
+(Customer PID: 7535) ORDER #9/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #9/100
+(Customer PID: 7536) ORDER #9/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #9/100
+(Customer PID: 7537) ORDER #9/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #9/100
+(Customer PID: 7534) ORDER #9/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #9/100
+(Customer PID: 7533) ORDER #9/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #9/100
+(Customer PID: 7532) ORDER #9/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #9/100
+(Customer PID: 7531) ORDER #9/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #9/100
+(Customer PID: 7530) ORDER #9/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #9/100
+(Customer PID: 7529) ORDER #9/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #11/100
+(Customer PID: 7527) ORDER #11/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #10/100
+(Customer PID: 7535) ORDER #10/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #10/100
+(Customer PID: 7536) ORDER #10/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #10/100
+(Customer PID: 7537) ORDER #10/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #10/100
+(Customer PID: 7534) ORDER #10/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #10/100
+(Customer PID: 7533) ORDER #10/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #10/100
+(Customer PID: 7532) ORDER #10/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #10/100
+(Customer PID: 7531) ORDER #10/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #10/100
+(Customer PID: 7530) ORDER #10/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #10/100
+(Customer PID: 7529) ORDER #10/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #12/100
+(Customer PID: 7527) ORDER #12/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #11/100
+(Customer PID: 7535) ORDER #11/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #11/100
+(Customer PID: 7536) ORDER #11/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #11/100
+(Customer PID: 7537) ORDER #11/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #11/100
+(Customer PID: 7534) ORDER #11/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #11/100
+(Customer PID: 7533) ORDER #11/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #11/100
+(Customer PID: 7532) ORDER #11/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #11/100
+(Customer PID: 7531) ORDER #11/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #11/100
+(Customer PID: 7530) ORDER #11/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #11/100
+(Customer PID: 7529) ORDER #11/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #13/100
+(Customer PID: 7527) ORDER #13/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #12/100
+(Customer PID: 7535) ORDER #12/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #12/100
+(Customer PID: 7536) ORDER #12/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #12/100
+(Customer PID: 7537) ORDER #12/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #12/100
+(Customer PID: 7534) ORDER #12/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #12/100
+(Customer PID: 7533) ORDER #12/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #12/100
+(Customer PID: 7532) ORDER #12/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #12/100
+(Customer PID: 7531) ORDER #12/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #12/100
+(Customer PID: 7530) ORDER #12/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #12/100
+(Customer PID: 7529) ORDER #12/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #14/100
+(Customer PID: 7527) ORDER #14/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #13/100
+(Customer PID: 7535) ORDER #13/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #13/100
+(Customer PID: 7536) ORDER #13/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #13/100
+(Customer PID: 7537) ORDER #13/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #13/100
+(Customer PID: 7534) ORDER #13/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #13/100
+(Customer PID: 7533) ORDER #13/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #13/100
+(Customer PID: 7532) ORDER #13/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #13/100
+(Customer PID: 7531) ORDER #13/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #13/100
+(Customer PID: 7530) ORDER #13/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #13/100
+(Customer PID: 7529) ORDER #13/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #15/100
+(Customer PID: 7527) ORDER #15/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #14/100
+(Customer PID: 7535) ORDER #14/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #14/100
+(Customer PID: 7536) ORDER #14/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #14/100
+(Customer PID: 7537) ORDER #14/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #14/100
+(Customer PID: 7534) ORDER #14/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #14/100
+(Customer PID: 7533) ORDER #14/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #14/100
+(Customer PID: 7532) ORDER #14/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #14/100
+(Customer PID: 7531) ORDER #14/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #14/100
+(Customer PID: 7530) ORDER #14/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #14/100
+(Customer PID: 7529) ORDER #14/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #16/100
+(Customer PID: 7527) ORDER #16/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #15/100
+(Customer PID: 7535) ORDER #15/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #15/100
+(Customer PID: 7536) ORDER #15/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #15/100
+(Customer PID: 7537) ORDER #15/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #15/100
+(Customer PID: 7534) ORDER #15/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #15/100
+(Customer PID: 7533) ORDER #15/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #15/100
+(Customer PID: 7532) ORDER #15/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #15/100
+(Customer PID: 7531) ORDER #15/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #15/100
+(Customer PID: 7530) ORDER #15/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #15/100
+(Customer PID: 7529) ORDER #15/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #17/100
+(Customer PID: 7527) ORDER #17/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #16/100
+(Customer PID: 7535) ORDER #16/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #16/100
+(Customer PID: 7536) ORDER #16/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #16/100
+(Customer PID: 7537) ORDER #16/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #16/100
+(Customer PID: 7534) ORDER #16/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #16/100
+(Customer PID: 7533) ORDER #16/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #16/100
+(Customer PID: 7532) ORDER #16/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #16/100
+(Customer PID: 7531) ORDER #16/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #16/100
+(Customer PID: 7530) ORDER #16/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #16/100
+(Customer PID: 7529) ORDER #16/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #18/100
+(Customer PID: 7527) ORDER #18/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #17/100
+(Customer PID: 7535) ORDER #17/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #17/100
+(Customer PID: 7536) ORDER #17/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #17/100
+(Customer PID: 7537) ORDER #17/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #17/100
+(Customer PID: 7534) ORDER #17/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #17/100
+(Customer PID: 7533) ORDER #17/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #17/100
+(Customer PID: 7532) ORDER #17/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #17/100
+(Customer PID: 7531) ORDER #17/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #17/100
+(Customer PID: 7530) ORDER #17/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #17/100
+(Customer PID: 7529) ORDER #17/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #19/100
+(Customer PID: 7527) ORDER #19/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #18/100
+(Customer PID: 7535) ORDER #18/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #18/100
+(Customer PID: 7536) ORDER #18/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #18/100
+(Customer PID: 7537) ORDER #18/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #18/100
+(Customer PID: 7534) ORDER #18/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #18/100
+(Customer PID: 7533) ORDER #18/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #18/100
+(Customer PID: 7532) ORDER #18/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #18/100
+(Customer PID: 7531) ORDER #18/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #18/100
+(Customer PID: 7530) ORDER #18/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #18/100
+(Customer PID: 7529) ORDER #18/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #20/100
+(Customer PID: 7527) ORDER #20/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #19/100
+(Customer PID: 7535) ORDER #19/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #19/100
+(Customer PID: 7536) ORDER #19/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #19/100
+(Customer PID: 7537) ORDER #19/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #19/100
+(Customer PID: 7534) ORDER #19/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #19/100
+(Customer PID: 7533) ORDER #19/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #19/100
+(Customer PID: 7532) ORDER #19/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #19/100
+(Customer PID: 7531) ORDER #19/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #19/100
+(Customer PID: 7530) ORDER #19/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #19/100
+(Customer PID: 7529) ORDER #19/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #21/100
+(Customer PID: 7527) ORDER #21/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #20/100
+(Customer PID: 7535) ORDER #20/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #20/100
+(Customer PID: 7536) ORDER #20/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #20/100
+(Customer PID: 7537) ORDER #20/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #20/100
+(Customer PID: 7534) ORDER #20/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #20/100
+(Customer PID: 7533) ORDER #20/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #20/100
+(Customer PID: 7532) ORDER #20/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #20/100
+(Customer PID: 7531) ORDER #20/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #20/100
+(Customer PID: 7530) ORDER #20/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #20/100
+(Customer PID: 7529) ORDER #20/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #22/100
+(Customer PID: 7527) ORDER #22/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #21/100
+(Customer PID: 7535) ORDER #21/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #21/100
+(Customer PID: 7536) ORDER #21/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #21/100
+(Customer PID: 7537) ORDER #21/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #21/100
+(Customer PID: 7534) ORDER #21/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #21/100
+(Customer PID: 7533) ORDER #21/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #21/100
+(Customer PID: 7532) ORDER #21/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #21/100
+(Customer PID: 7531) ORDER #21/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #21/100
+(Customer PID: 7530) ORDER #21/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #21/100
+(Customer PID: 7529) ORDER #21/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #23/100
+(Customer PID: 7527) ORDER #23/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #22/100
+(Customer PID: 7535) ORDER #22/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #22/100
+(Customer PID: 7536) ORDER #22/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #22/100
+(Customer PID: 7537) ORDER #22/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #22/100
+(Customer PID: 7534) ORDER #22/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #22/100
+(Customer PID: 7533) ORDER #22/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #22/100
+(Customer PID: 7532) ORDER #22/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #22/100
+(Customer PID: 7531) ORDER #22/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #22/100
+(Customer PID: 7530) ORDER #22/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #22/100
+(Customer PID: 7529) ORDER #22/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #24/100
+(Customer PID: 7527) ORDER #24/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #23/100
+(Customer PID: 7535) ORDER #23/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #23/100
+(Customer PID: 7536) ORDER #23/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #23/100
+(Customer PID: 7537) ORDER #23/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #23/100
+(Customer PID: 7534) ORDER #23/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #23/100
+(Customer PID: 7533) ORDER #23/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #23/100
+(Customer PID: 7532) ORDER #23/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #23/100
+(Customer PID: 7531) ORDER #23/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #23/100
+(Customer PID: 7530) ORDER #23/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #23/100
+(Customer PID: 7529) ORDER #23/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #25/100
+(Customer PID: 7527) ORDER #25/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #24/100
+(Customer PID: 7535) ORDER #24/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #24/100
+(Customer PID: 7536) ORDER #24/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #24/100
+(Customer PID: 7537) ORDER #24/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #24/100
+(Customer PID: 7534) ORDER #24/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #24/100
+(Customer PID: 7533) ORDER #24/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #24/100
+(Customer PID: 7532) ORDER #24/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #24/100
+(Customer PID: 7531) ORDER #24/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #24/100
+(Customer PID: 7530) ORDER #24/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #24/100
+(Customer PID: 7529) ORDER #24/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #26/100
+(Customer PID: 7527) ORDER #26/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #25/100
+(Customer PID: 7535) ORDER #25/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #25/100
+(Customer PID: 7536) ORDER #25/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #25/100
+(Customer PID: 7537) ORDER #25/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #25/100
+(Customer PID: 7534) ORDER #25/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #25/100
+(Customer PID: 7533) ORDER #25/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #25/100
+(Customer PID: 7532) ORDER #25/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #25/100
+(Customer PID: 7531) ORDER #25/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #25/100
+(Customer PID: 7530) ORDER #25/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #25/100
+(Customer PID: 7529) ORDER #25/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #27/100
+(Customer PID: 7527) ORDER #27/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #26/100
+(Customer PID: 7535) ORDER #26/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #26/100
+(Customer PID: 7536) ORDER #26/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #26/100
+(Customer PID: 7537) ORDER #26/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #26/100
+(Customer PID: 7534) ORDER #26/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #26/100
+(Customer PID: 7533) ORDER #26/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #26/100
+(Customer PID: 7532) ORDER #26/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #26/100
+(Customer PID: 7531) ORDER #26/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #26/100
+(Customer PID: 7530) ORDER #26/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #26/100
+(Customer PID: 7529) ORDER #26/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #28/100
+(Customer PID: 7527) ORDER #28/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #27/100
+(Customer PID: 7535) ORDER #27/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #27/100
+(Customer PID: 7536) ORDER #27/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #27/100
+(Customer PID: 7537) ORDER #27/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #27/100
+(Customer PID: 7534) ORDER #27/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #27/100
+(Customer PID: 7533) ORDER #27/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #27/100
+(Customer PID: 7532) ORDER #27/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #27/100
+(Customer PID: 7531) ORDER #27/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #27/100
+(Customer PID: 7530) ORDER #27/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #27/100
+(Customer PID: 7529) ORDER #27/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #29/100
+(Customer PID: 7527) ORDER #29/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #28/100
+(Customer PID: 7535) ORDER #28/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #28/100
+(Customer PID: 7536) ORDER #28/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #28/100
+(Customer PID: 7537) ORDER #28/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #28/100
+(Customer PID: 7534) ORDER #28/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #28/100
+(Customer PID: 7533) ORDER #28/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #28/100
+(Customer PID: 7532) ORDER #28/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #28/100
+(Customer PID: 7531) ORDER #28/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #28/100
+(Customer PID: 7530) ORDER #28/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #28/100
+(Customer PID: 7529) ORDER #28/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #30/100
+(Customer PID: 7527) ORDER #30/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #29/100
+(Customer PID: 7535) ORDER #29/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #29/100
+(Customer PID: 7536) ORDER #29/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #29/100
+(Customer PID: 7537) ORDER #29/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #29/100
+(Customer PID: 7534) ORDER #29/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #29/100
+(Customer PID: 7533) ORDER #29/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #29/100
+(Customer PID: 7532) ORDER #29/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #29/100
+(Customer PID: 7531) ORDER #29/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #29/100
+(Customer PID: 7530) ORDER #29/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #29/100
+(Customer PID: 7529) ORDER #29/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #31/100
+(Customer PID: 7527) ORDER #31/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #30/100
+(Customer PID: 7535) ORDER #30/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #30/100
+(Customer PID: 7536) ORDER #30/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #30/100
+(Customer PID: 7537) ORDER #30/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #30/100
+(Customer PID: 7534) ORDER #30/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #30/100
+(Customer PID: 7533) ORDER #30/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #30/100
+(Customer PID: 7532) ORDER #30/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #30/100
+(Customer PID: 7531) ORDER #30/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #30/100
+(Customer PID: 7530) ORDER #30/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #30/100
+(Customer PID: 7529) ORDER #30/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #32/100
+(Customer PID: 7527) ORDER #32/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #31/100
+(Customer PID: 7535) ORDER #31/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #31/100
+(Customer PID: 7536) ORDER #31/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #31/100
+(Customer PID: 7537) ORDER #31/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #31/100
+(Customer PID: 7534) ORDER #31/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #31/100
+(Customer PID: 7533) ORDER #31/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #31/100
+(Customer PID: 7532) ORDER #31/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #31/100
+(Customer PID: 7531) ORDER #31/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #31/100
+(Customer PID: 7530) ORDER #31/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #31/100
+(Customer PID: 7529) ORDER #31/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #33/100
+(Customer PID: 7527) ORDER #33/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #32/100
+(Customer PID: 7535) ORDER #32/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #32/100
+(Customer PID: 7536) ORDER #32/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #32/100
+(Customer PID: 7537) ORDER #32/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #32/100
+(Customer PID: 7534) ORDER #32/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #32/100
+(Customer PID: 7533) ORDER #32/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #32/100
+(Customer PID: 7532) ORDER #32/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #32/100
+(Customer PID: 7531) ORDER #32/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #32/100
+(Customer PID: 7530) ORDER #32/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #32/100
+(Customer PID: 7529) ORDER #32/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #34/100
+(Customer PID: 7527) ORDER #34/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #33/100
+(Customer PID: 7535) ORDER #33/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #33/100
+(Customer PID: 7536) ORDER #33/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #33/100
+(Customer PID: 7537) ORDER #33/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #33/100
+(Customer PID: 7534) ORDER #33/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #33/100
+(Customer PID: 7533) ORDER #33/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #33/100
+(Customer PID: 7532) ORDER #33/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #33/100
+(Customer PID: 7531) ORDER #33/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #33/100
+(Customer PID: 7530) ORDER #33/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #33/100
+(Customer PID: 7529) ORDER #33/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #35/100
+(Customer PID: 7527) ORDER #35/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #34/100
+(Customer PID: 7535) ORDER #34/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #34/100
+(Customer PID: 7536) ORDER #34/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #34/100
+(Customer PID: 7537) ORDER #34/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #34/100
+(Customer PID: 7534) ORDER #34/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #34/100
+(Customer PID: 7533) ORDER #34/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #34/100
+(Customer PID: 7532) ORDER #34/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #34/100
+(Customer PID: 7531) ORDER #34/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #34/100
+(Customer PID: 7530) ORDER #34/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #34/100
+(Customer PID: 7529) ORDER #34/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #36/100
+(Customer PID: 7527) ORDER #36/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #35/100
+(Customer PID: 7535) ORDER #35/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #35/100
+(Customer PID: 7536) ORDER #35/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #35/100
+(Customer PID: 7537) ORDER #35/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #35/100
+(Customer PID: 7534) ORDER #35/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #35/100
+(Customer PID: 7533) ORDER #35/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #35/100
+(Customer PID: 7532) ORDER #35/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #35/100
+(Customer PID: 7531) ORDER #35/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #35/100
+(Customer PID: 7530) ORDER #35/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #35/100
+(Customer PID: 7529) ORDER #35/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #37/100
+(Customer PID: 7527) ORDER #37/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #36/100
+(Customer PID: 7535) ORDER #36/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #36/100
+(Customer PID: 7536) ORDER #36/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #36/100
+(Customer PID: 7537) ORDER #36/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #36/100
+(Customer PID: 7534) ORDER #36/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #36/100
+(Customer PID: 7533) ORDER #36/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #36/100
+(Customer PID: 7532) ORDER #36/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #36/100
+(Customer PID: 7531) ORDER #36/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #36/100
+(Customer PID: 7530) ORDER #36/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #36/100
+(Customer PID: 7529) ORDER #36/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #38/100
+(Customer PID: 7527) ORDER #38/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #37/100
+(Customer PID: 7535) ORDER #37/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #37/100
+(Customer PID: 7536) ORDER #37/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #37/100
+(Customer PID: 7537) ORDER #37/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #37/100
+(Customer PID: 7534) ORDER #37/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #37/100
+(Customer PID: 7533) ORDER #37/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #37/100
+(Customer PID: 7532) ORDER #37/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #37/100
+(Customer PID: 7531) ORDER #37/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #37/100
+(Customer PID: 7530) ORDER #37/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #37/100
+(Customer PID: 7529) ORDER #37/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #39/100
+(Customer PID: 7527) ORDER #39/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #38/100
+(Customer PID: 7535) ORDER #38/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #38/100
+(Customer PID: 7536) ORDER #38/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #38/100
+(Customer PID: 7537) ORDER #38/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #38/100
+(Customer PID: 7534) ORDER #38/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #38/100
+(Customer PID: 7533) ORDER #38/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #38/100
+(Customer PID: 7532) ORDER #38/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #38/100
+(Customer PID: 7531) ORDER #38/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #38/100
+(Customer PID: 7530) ORDER #38/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #38/100
+(Customer PID: 7529) ORDER #38/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #40/100
+(Customer PID: 7527) ORDER #40/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #39/100
+(Customer PID: 7535) ORDER #39/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #39/100
+(Customer PID: 7536) ORDER #39/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #39/100
+(Customer PID: 7537) ORDER #39/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #39/100
+(Customer PID: 7534) ORDER #39/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #39/100
+(Customer PID: 7533) ORDER #39/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #39/100
+(Customer PID: 7532) ORDER #39/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #39/100
+(Customer PID: 7531) ORDER #39/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #39/100
+(Customer PID: 7530) ORDER #39/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #39/100
+(Customer PID: 7529) ORDER #39/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #41/100
+(Customer PID: 7527) ORDER #41/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #40/100
+(Customer PID: 7535) ORDER #40/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #40/100
+(Customer PID: 7536) ORDER #40/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #40/100
+(Customer PID: 7537) ORDER #40/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #40/100
+(Customer PID: 7534) ORDER #40/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #40/100
+(Customer PID: 7533) ORDER #40/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #40/100
+(Customer PID: 7532) ORDER #40/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #40/100
+(Customer PID: 7531) ORDER #40/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #40/100
+(Customer PID: 7530) ORDER #40/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #40/100
+(Customer PID: 7529) ORDER #40/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #42/100
+(Customer PID: 7527) ORDER #42/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #41/100
+(Customer PID: 7535) ORDER #41/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #41/100
+(Customer PID: 7536) ORDER #41/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #41/100
+(Customer PID: 7537) ORDER #41/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #41/100
+(Customer PID: 7534) ORDER #41/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #41/100
+(Customer PID: 7533) ORDER #41/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #41/100
+(Customer PID: 7532) ORDER #41/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #41/100
+(Customer PID: 7531) ORDER #41/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #41/100
+(Customer PID: 7530) ORDER #41/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #41/100
+(Customer PID: 7529) ORDER #41/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #43/100
+(Customer PID: 7527) ORDER #43/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #42/100
+(Customer PID: 7535) ORDER #42/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #42/100
+(Customer PID: 7536) ORDER #42/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #42/100
+(Customer PID: 7537) ORDER #42/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #42/100
+(Customer PID: 7534) ORDER #42/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #42/100
+(Customer PID: 7533) ORDER #42/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #42/100
+(Customer PID: 7532) ORDER #42/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #42/100
+(Customer PID: 7531) ORDER #42/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #42/100
+(Customer PID: 7530) ORDER #42/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #42/100
+(Customer PID: 7529) ORDER #42/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #44/100
+(Customer PID: 7527) ORDER #44/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #43/100
+(Customer PID: 7535) ORDER #43/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #43/100
+(Customer PID: 7536) ORDER #43/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #43/100
+(Customer PID: 7537) ORDER #43/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #43/100
+(Customer PID: 7534) ORDER #43/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #43/100
+(Customer PID: 7533) ORDER #43/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #43/100
+(Customer PID: 7532) ORDER #43/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #43/100
+(Customer PID: 7531) ORDER #43/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #43/100
+(Customer PID: 7530) ORDER #43/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #43/100
+(Customer PID: 7529) ORDER #43/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #45/100
+(Customer PID: 7527) ORDER #45/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #44/100
+(Customer PID: 7535) ORDER #44/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #44/100
+(Customer PID: 7536) ORDER #44/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #44/100
+(Customer PID: 7537) ORDER #44/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #44/100
+(Customer PID: 7534) ORDER #44/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #44/100
+(Customer PID: 7533) ORDER #44/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #44/100
+(Customer PID: 7532) ORDER #44/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #44/100
+(Customer PID: 7531) ORDER #44/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #44/100
+(Customer PID: 7530) ORDER #44/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #44/100
+(Customer PID: 7529) ORDER #44/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #46/100
+(Customer PID: 7527) ORDER #46/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #45/100
+(Customer PID: 7535) ORDER #45/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #45/100
+(Customer PID: 7536) ORDER #45/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #45/100
+(Customer PID: 7537) ORDER #45/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #45/100
+(Customer PID: 7534) ORDER #45/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #45/100
+(Customer PID: 7533) ORDER #45/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #45/100
+(Customer PID: 7532) ORDER #45/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #45/100
+(Customer PID: 7531) ORDER #45/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #45/100
+(Customer PID: 7530) ORDER #45/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #45/100
+(Customer PID: 7529) ORDER #45/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #47/100
+(Customer PID: 7527) ORDER #47/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #46/100
+(Customer PID: 7535) ORDER #46/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #46/100
+(Customer PID: 7536) ORDER #46/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #46/100
+(Customer PID: 7537) ORDER #46/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #46/100
+(Customer PID: 7534) ORDER #46/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #46/100
+(Customer PID: 7533) ORDER #46/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #46/100
+(Customer PID: 7532) ORDER #46/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #46/100
+(Customer PID: 7531) ORDER #46/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #46/100
+(Customer PID: 7530) ORDER #46/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #46/100
+(Customer PID: 7529) ORDER #46/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #48/100
+(Customer PID: 7527) ORDER #48/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #47/100
+(Customer PID: 7535) ORDER #47/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #47/100
+(Customer PID: 7536) ORDER #47/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #47/100
+(Customer PID: 7537) ORDER #47/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #47/100
+(Customer PID: 7534) ORDER #47/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #47/100
+(Customer PID: 7533) ORDER #47/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #47/100
+(Customer PID: 7532) ORDER #47/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #47/100
+(Customer PID: 7531) ORDER #47/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #47/100
+(Customer PID: 7530) ORDER #47/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #47/100
+(Customer PID: 7529) ORDER #47/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #49/100
+(Customer PID: 7527) ORDER #49/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #48/100
+(Customer PID: 7535) ORDER #48/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #48/100
+(Customer PID: 7536) ORDER #48/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #48/100
+(Customer PID: 7537) ORDER #48/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #48/100
+(Customer PID: 7534) ORDER #48/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #48/100
+(Customer PID: 7533) ORDER #48/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #48/100
+(Customer PID: 7532) ORDER #48/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #48/100
+(Customer PID: 7531) ORDER #48/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #48/100
+(Customer PID: 7530) ORDER #48/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #48/100
+(Customer PID: 7529) ORDER #48/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #50/100
+(Customer PID: 7527) ORDER #50/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #49/100
+(Customer PID: 7535) ORDER #49/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #49/100
+(Customer PID: 7536) ORDER #49/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #49/100
+(Customer PID: 7537) ORDER #49/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #49/100
+(Customer PID: 7534) ORDER #49/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #49/100
+(Customer PID: 7533) ORDER #49/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #49/100
+(Customer PID: 7532) ORDER #49/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #49/100
+(Customer PID: 7531) ORDER #49/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #49/100
+(Customer PID: 7530) ORDER #49/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #49/100
+(Customer PID: 7529) ORDER #49/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #51/100
+(Customer PID: 7527) ORDER #51/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #50/100
+(Customer PID: 7535) ORDER #50/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #50/100
+(Customer PID: 7536) ORDER #50/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #50/100
+(Customer PID: 7537) ORDER #50/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #50/100
+(Customer PID: 7534) ORDER #50/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #50/100
+(Customer PID: 7533) ORDER #50/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #50/100
+(Customer PID: 7532) ORDER #50/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #50/100
+(Customer PID: 7531) ORDER #50/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #50/100
+(Customer PID: 7530) ORDER #50/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #50/100
+(Customer PID: 7529) ORDER #50/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #52/100
+(Customer PID: 7527) ORDER #52/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #51/100
+(Customer PID: 7535) ORDER #51/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #51/100
+(Customer PID: 7536) ORDER #51/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #51/100
+(Customer PID: 7537) ORDER #51/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #51/100
+(Customer PID: 7534) ORDER #51/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #51/100
+(Customer PID: 7533) ORDER #51/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #51/100
+(Customer PID: 7532) ORDER #51/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #51/100
+(Customer PID: 7531) ORDER #51/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #51/100
+(Customer PID: 7530) ORDER #51/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #51/100
+(Customer PID: 7529) ORDER #51/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #53/100
+(Customer PID: 7527) ORDER #53/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #52/100
+(Customer PID: 7535) ORDER #52/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #52/100
+(Customer PID: 7536) ORDER #52/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #52/100
+(Customer PID: 7537) ORDER #52/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #52/100
+(Customer PID: 7534) ORDER #52/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #52/100
+(Customer PID: 7533) ORDER #52/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #52/100
+(Customer PID: 7532) ORDER #52/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #52/100
+(Customer PID: 7531) ORDER #52/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #52/100
+(Customer PID: 7530) ORDER #52/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #52/100
+(Customer PID: 7529) ORDER #52/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #54/100
+(Customer PID: 7527) ORDER #54/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #53/100
+(Customer PID: 7535) ORDER #53/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #53/100
+(Customer PID: 7536) ORDER #53/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #53/100
+(Customer PID: 7537) ORDER #53/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #53/100
+(Customer PID: 7534) ORDER #53/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #53/100
+(Customer PID: 7533) ORDER #53/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #53/100
+(Customer PID: 7532) ORDER #53/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #53/100
+(Customer PID: 7531) ORDER #53/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #53/100
+(Customer PID: 7530) ORDER #53/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #53/100
+(Customer PID: 7529) ORDER #53/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #55/100
+(Customer PID: 7527) ORDER #55/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #54/100
+(Customer PID: 7535) ORDER #54/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #54/100
+(Customer PID: 7536) ORDER #54/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #54/100
+(Customer PID: 7537) ORDER #54/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #54/100
+(Customer PID: 7534) ORDER #54/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #54/100
+(Customer PID: 7533) ORDER #54/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #54/100
+(Customer PID: 7532) ORDER #54/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #54/100
+(Customer PID: 7531) ORDER #54/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #54/100
+(Customer PID: 7530) ORDER #54/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #54/100
+(Customer PID: 7529) ORDER #54/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #56/100
+(Customer PID: 7527) ORDER #56/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #55/100
+(Customer PID: 7535) ORDER #55/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #55/100
+(Customer PID: 7536) ORDER #55/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #55/100
+(Customer PID: 7537) ORDER #55/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #55/100
+(Customer PID: 7534) ORDER #55/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #55/100
+(Customer PID: 7533) ORDER #55/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #55/100
+(Customer PID: 7532) ORDER #55/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #55/100
+(Customer PID: 7531) ORDER #55/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #55/100
+(Customer PID: 7530) ORDER #55/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #55/100
+(Customer PID: 7529) ORDER #55/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #57/100
+(Customer PID: 7527) ORDER #57/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #56/100
+(Customer PID: 7535) ORDER #56/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #56/100
+(Customer PID: 7536) ORDER #56/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #56/100
+(Customer PID: 7537) ORDER #56/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #56/100
+(Customer PID: 7534) ORDER #56/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #56/100
+(Customer PID: 7533) ORDER #56/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #56/100
+(Customer PID: 7532) ORDER #56/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #56/100
+(Customer PID: 7531) ORDER #56/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #56/100
+(Customer PID: 7530) ORDER #56/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #56/100
+(Customer PID: 7529) ORDER #56/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #58/100
+(Customer PID: 7527) ORDER #58/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #57/100
+(Customer PID: 7535) ORDER #57/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #57/100
+(Customer PID: 7536) ORDER #57/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #57/100
+(Customer PID: 7537) ORDER #57/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #57/100
+(Customer PID: 7534) ORDER #57/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #57/100
+(Customer PID: 7533) ORDER #57/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #57/100
+(Customer PID: 7532) ORDER #57/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #57/100
+(Customer PID: 7531) ORDER #57/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #57/100
+(Customer PID: 7530) ORDER #57/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #57/100
+(Customer PID: 7529) ORDER #57/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #59/100
+(Customer PID: 7527) ORDER #59/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #58/100
+(Customer PID: 7535) ORDER #58/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #58/100
+(Customer PID: 7536) ORDER #58/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #58/100
+(Customer PID: 7537) ORDER #58/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #58/100
+(Customer PID: 7534) ORDER #58/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #58/100
+(Customer PID: 7533) ORDER #58/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #58/100
+(Customer PID: 7532) ORDER #58/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #58/100
+(Customer PID: 7531) ORDER #58/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #58/100
+(Customer PID: 7530) ORDER #58/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #58/100
+(Customer PID: 7529) ORDER #58/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #60/100
+(Customer PID: 7527) ORDER #60/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #59/100
+(Customer PID: 7535) ORDER #59/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #59/100
+(Customer PID: 7536) ORDER #59/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #59/100
+(Customer PID: 7537) ORDER #59/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #59/100
+(Customer PID: 7534) ORDER #59/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #59/100
+(Customer PID: 7533) ORDER #59/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #59/100
+(Customer PID: 7532) ORDER #59/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #59/100
+(Customer PID: 7531) ORDER #59/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #59/100
+(Customer PID: 7530) ORDER #59/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #59/100
+(Customer PID: 7529) ORDER #59/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #61/100
+(Customer PID: 7527) ORDER #61/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #60/100
+(Customer PID: 7535) ORDER #60/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #60/100
+(Customer PID: 7536) ORDER #60/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #60/100
+(Customer PID: 7537) ORDER #60/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #60/100
+(Customer PID: 7534) ORDER #60/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #60/100
+(Customer PID: 7533) ORDER #60/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #60/100
+(Customer PID: 7532) ORDER #60/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #60/100
+(Customer PID: 7531) ORDER #60/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #60/100
+(Customer PID: 7530) ORDER #60/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #60/100
+(Customer PID: 7529) ORDER #60/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #62/100
+(Customer PID: 7527) ORDER #62/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #61/100
+(Customer PID: 7535) ORDER #61/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #61/100
+(Customer PID: 7536) ORDER #61/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #61/100
+(Customer PID: 7537) ORDER #61/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #61/100
+(Customer PID: 7534) ORDER #61/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #61/100
+(Customer PID: 7533) ORDER #61/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #61/100
+(Customer PID: 7532) ORDER #61/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #61/100
+(Customer PID: 7531) ORDER #61/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #61/100
+(Customer PID: 7530) ORDER #61/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #61/100
+(Customer PID: 7529) ORDER #61/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #63/100
+(Customer PID: 7527) ORDER #63/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #62/100
+(Customer PID: 7535) ORDER #62/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #62/100
+(Customer PID: 7536) ORDER #62/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #62/100
+(Customer PID: 7537) ORDER #62/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #62/100
+(Customer PID: 7534) ORDER #62/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #62/100
+(Customer PID: 7533) ORDER #62/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #62/100
+(Customer PID: 7532) ORDER #62/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #62/100
+(Customer PID: 7531) ORDER #62/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #62/100
+(Customer PID: 7530) ORDER #62/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #62/100
+(Customer PID: 7529) ORDER #62/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #64/100
+(Customer PID: 7527) ORDER #64/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #63/100
+(Customer PID: 7535) ORDER #63/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #63/100
+(Customer PID: 7536) ORDER #63/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #63/100
+(Customer PID: 7537) ORDER #63/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #63/100
+(Customer PID: 7534) ORDER #63/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #63/100
+(Customer PID: 7533) ORDER #63/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #63/100
+(Customer PID: 7532) ORDER #63/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #63/100
+(Customer PID: 7531) ORDER #63/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #63/100
+(Customer PID: 7530) ORDER #63/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #63/100
+(Customer PID: 7529) ORDER #63/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #65/100
+(Customer PID: 7527) ORDER #65/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #64/100
+(Customer PID: 7535) ORDER #64/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #64/100
+(Customer PID: 7536) ORDER #64/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #64/100
+(Customer PID: 7537) ORDER #64/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #64/100
+(Customer PID: 7534) ORDER #64/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #64/100
+(Customer PID: 7533) ORDER #64/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #64/100
+(Customer PID: 7532) ORDER #64/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #64/100
+(Customer PID: 7531) ORDER #64/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #64/100
+(Customer PID: 7530) ORDER #64/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #64/100
+(Customer PID: 7529) ORDER #64/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #66/100
+(Customer PID: 7527) ORDER #66/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #65/100
+(Customer PID: 7535) ORDER #65/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #65/100
+(Customer PID: 7536) ORDER #65/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #65/100
+(Customer PID: 7537) ORDER #65/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #65/100
+(Customer PID: 7534) ORDER #65/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #65/100
+(Customer PID: 7533) ORDER #65/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #65/100
+(Customer PID: 7532) ORDER #65/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #65/100
+(Customer PID: 7531) ORDER #65/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #65/100
+(Customer PID: 7530) ORDER #65/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #65/100
+(Customer PID: 7529) ORDER #65/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #67/100
+(Customer PID: 7527) ORDER #67/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #66/100
+(Customer PID: 7535) ORDER #66/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #66/100
+(Customer PID: 7536) ORDER #66/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #66/100
+(Customer PID: 7537) ORDER #66/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #66/100
+(Customer PID: 7534) ORDER #66/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #66/100
+(Customer PID: 7533) ORDER #66/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #66/100
+(Customer PID: 7532) ORDER #66/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #66/100
+(Customer PID: 7531) ORDER #66/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #66/100
+(Customer PID: 7530) ORDER #66/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #66/100
+(Customer PID: 7529) ORDER #66/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #68/100
+(Customer PID: 7527) ORDER #68/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #67/100
+(Customer PID: 7535) ORDER #67/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #67/100
+(Customer PID: 7536) ORDER #67/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #67/100
+(Customer PID: 7537) ORDER #67/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #67/100
+(Customer PID: 7534) ORDER #67/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #67/100
+(Customer PID: 7533) ORDER #67/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #67/100
+(Customer PID: 7532) ORDER #67/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #67/100
+(Customer PID: 7531) ORDER #67/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #67/100
+(Customer PID: 7530) ORDER #67/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #67/100
+(Customer PID: 7529) ORDER #67/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #69/100
+(Customer PID: 7527) ORDER #69/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #68/100
+(Customer PID: 7535) ORDER #68/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #68/100
+(Customer PID: 7536) ORDER #68/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #68/100
+(Customer PID: 7537) ORDER #68/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #68/100
+(Customer PID: 7534) ORDER #68/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #68/100
+(Customer PID: 7533) ORDER #68/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #68/100
+(Customer PID: 7532) ORDER #68/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #68/100
+(Customer PID: 7531) ORDER #68/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #68/100
+(Customer PID: 7530) ORDER #68/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #68/100
+(Customer PID: 7529) ORDER #68/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #70/100
+(Customer PID: 7527) ORDER #70/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #69/100
+(Customer PID: 7535) ORDER #69/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #69/100
+(Customer PID: 7536) ORDER #69/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #69/100
+(Customer PID: 7537) ORDER #69/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #69/100
+(Customer PID: 7534) ORDER #69/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #69/100
+(Customer PID: 7533) ORDER #69/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #69/100
+(Customer PID: 7532) ORDER #69/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #69/100
+(Customer PID: 7531) ORDER #69/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #69/100
+(Customer PID: 7530) ORDER #69/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #69/100
+(Customer PID: 7529) ORDER #69/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #71/100
+(Customer PID: 7527) ORDER #71/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #70/100
+(Customer PID: 7535) ORDER #70/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #70/100
+(Customer PID: 7536) ORDER #70/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #70/100
+(Customer PID: 7537) ORDER #70/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #70/100
+(Customer PID: 7534) ORDER #70/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #70/100
+(Customer PID: 7533) ORDER #70/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #70/100
+(Customer PID: 7532) ORDER #70/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #70/100
+(Customer PID: 7531) ORDER #70/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #70/100
+(Customer PID: 7530) ORDER #70/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #70/100
+(Customer PID: 7529) ORDER #70/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #72/100
+(Customer PID: 7527) ORDER #72/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #71/100
+(Customer PID: 7535) ORDER #71/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #71/100
+(Customer PID: 7536) ORDER #71/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #71/100
+(Customer PID: 7537) ORDER #71/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #71/100
+(Customer PID: 7534) ORDER #71/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #71/100
+(Customer PID: 7533) ORDER #71/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #71/100
+(Customer PID: 7532) ORDER #71/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #71/100
+(Customer PID: 7531) ORDER #71/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #71/100
+(Customer PID: 7530) ORDER #71/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #71/100
+(Customer PID: 7529) ORDER #71/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #73/100
+(Customer PID: 7527) ORDER #73/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #72/100
+(Customer PID: 7535) ORDER #72/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #72/100
+(Customer PID: 7536) ORDER #72/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #72/100
+(Customer PID: 7537) ORDER #72/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #72/100
+(Customer PID: 7534) ORDER #72/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #72/100
+(Customer PID: 7533) ORDER #72/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #72/100
+(Customer PID: 7532) ORDER #72/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #72/100
+(Customer PID: 7531) ORDER #72/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #72/100
+(Customer PID: 7530) ORDER #72/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #72/100
+(Customer PID: 7529) ORDER #72/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #74/100
+(Customer PID: 7527) ORDER #74/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #73/100
+(Customer PID: 7535) ORDER #73/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #73/100
+(Customer PID: 7536) ORDER #73/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #73/100
+(Customer PID: 7537) ORDER #73/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #73/100
+(Customer PID: 7534) ORDER #73/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #73/100
+(Customer PID: 7533) ORDER #73/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #73/100
+(Customer PID: 7532) ORDER #73/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #73/100
+(Customer PID: 7531) ORDER #73/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #73/100
+(Customer PID: 7530) ORDER #73/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #73/100
+(Customer PID: 7529) ORDER #73/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #75/100
+(Customer PID: 7527) ORDER #75/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #74/100
+(Customer PID: 7535) ORDER #74/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #74/100
+(Customer PID: 7536) ORDER #74/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #74/100
+(Customer PID: 7537) ORDER #74/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #74/100
+(Customer PID: 7534) ORDER #74/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #74/100
+(Customer PID: 7533) ORDER #74/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #74/100
+(Customer PID: 7532) ORDER #74/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #74/100
+(Customer PID: 7531) ORDER #74/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #74/100
+(Customer PID: 7530) ORDER #74/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #74/100
+(Customer PID: 7529) ORDER #74/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #76/100
+(Customer PID: 7527) ORDER #76/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #75/100
+(Customer PID: 7535) ORDER #75/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #75/100
+(Customer PID: 7536) ORDER #75/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #75/100
+(Customer PID: 7537) ORDER #75/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #75/100
+(Customer PID: 7534) ORDER #75/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #75/100
+(Customer PID: 7533) ORDER #75/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #75/100
+(Customer PID: 7532) ORDER #75/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #75/100
+(Customer PID: 7531) ORDER #75/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #75/100
+(Customer PID: 7530) ORDER #75/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #75/100
+(Customer PID: 7529) ORDER #75/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #77/100
+(Customer PID: 7527) ORDER #77/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #76/100
+(Customer PID: 7535) ORDER #76/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #76/100
+(Customer PID: 7536) ORDER #76/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #76/100
+(Customer PID: 7537) ORDER #76/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #76/100
+(Customer PID: 7534) ORDER #76/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #76/100
+(Customer PID: 7533) ORDER #76/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #76/100
+(Customer PID: 7532) ORDER #76/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #76/100
+(Customer PID: 7531) ORDER #76/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #76/100
+(Customer PID: 7530) ORDER #76/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #76/100
+(Customer PID: 7529) ORDER #76/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #78/100
+(Customer PID: 7527) ORDER #78/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #77/100
+(Customer PID: 7535) ORDER #77/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #77/100
+(Customer PID: 7536) ORDER #77/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #77/100
+(Customer PID: 7537) ORDER #77/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #77/100
+(Customer PID: 7534) ORDER #77/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #77/100
+(Customer PID: 7533) ORDER #77/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #77/100
+(Customer PID: 7532) ORDER #77/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #77/100
+(Customer PID: 7531) ORDER #77/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #77/100
+(Customer PID: 7530) ORDER #77/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #77/100
+(Customer PID: 7529) ORDER #77/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #79/100
+(Customer PID: 7527) ORDER #79/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #78/100
+(Customer PID: 7535) ORDER #78/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #78/100
+(Customer PID: 7536) ORDER #78/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #78/100
+(Customer PID: 7537) ORDER #78/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #78/100
+(Customer PID: 7534) ORDER #78/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #78/100
+(Customer PID: 7533) ORDER #78/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #78/100
+(Customer PID: 7532) ORDER #78/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #78/100
+(Customer PID: 7531) ORDER #78/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #78/100
+(Customer PID: 7530) ORDER #78/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #78/100
+(Customer PID: 7529) ORDER #78/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #80/100
+(Customer PID: 7527) ORDER #80/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #79/100
+(Customer PID: 7535) ORDER #79/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #79/100
+(Customer PID: 7536) ORDER #79/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #79/100
+(Customer PID: 7537) ORDER #79/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #79/100
+(Customer PID: 7534) ORDER #79/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #79/100
+(Customer PID: 7533) ORDER #79/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #79/100
+(Customer PID: 7532) ORDER #79/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #79/100
+(Customer PID: 7531) ORDER #79/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #79/100
+(Customer PID: 7530) ORDER #79/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #79/100
+(Customer PID: 7529) ORDER #79/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #81/100
+(Customer PID: 7527) ORDER #81/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #80/100
+(Customer PID: 7535) ORDER #80/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #80/100
+(Customer PID: 7536) ORDER #80/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #80/100
+(Customer PID: 7537) ORDER #80/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #80/100
+(Customer PID: 7534) ORDER #80/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #80/100
+(Customer PID: 7533) ORDER #80/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #80/100
+(Customer PID: 7532) ORDER #80/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #80/100
+(Customer PID: 7531) ORDER #80/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #80/100
+(Customer PID: 7530) ORDER #80/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #80/100
+(Customer PID: 7529) ORDER #80/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #82/100
+(Customer PID: 7527) ORDER #82/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #81/100
+(Customer PID: 7535) ORDER #81/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #81/100
+(Customer PID: 7536) ORDER #81/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #81/100
+(Customer PID: 7537) ORDER #81/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #81/100
+(Customer PID: 7534) ORDER #81/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #81/100
+(Customer PID: 7533) ORDER #81/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #81/100
+(Customer PID: 7532) ORDER #81/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #81/100
+(Customer PID: 7531) ORDER #81/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #81/100
+(Customer PID: 7530) ORDER #81/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #81/100
+(Customer PID: 7529) ORDER #81/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #83/100
+(Customer PID: 7527) ORDER #83/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #82/100
+(Customer PID: 7535) ORDER #82/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #82/100
+(Customer PID: 7536) ORDER #82/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #82/100
+(Customer PID: 7537) ORDER #82/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #82/100
+(Customer PID: 7534) ORDER #82/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #82/100
+(Customer PID: 7533) ORDER #82/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #82/100
+(Customer PID: 7532) ORDER #82/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #82/100
+(Customer PID: 7531) ORDER #82/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #82/100
+(Customer PID: 7530) ORDER #82/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #82/100
+(Customer PID: 7529) ORDER #82/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #84/100
+(Customer PID: 7527) ORDER #84/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #83/100
+(Customer PID: 7535) ORDER #83/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #83/100
+(Customer PID: 7536) ORDER #83/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #83/100
+(Customer PID: 7537) ORDER #83/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #83/100
+(Customer PID: 7534) ORDER #83/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #83/100
+(Customer PID: 7533) ORDER #83/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #83/100
+(Customer PID: 7532) ORDER #83/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #83/100
+(Customer PID: 7531) ORDER #83/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #83/100
+(Customer PID: 7530) ORDER #83/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #83/100
+(Customer PID: 7529) ORDER #83/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #85/100
+(Customer PID: 7527) ORDER #85/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #84/100
+(Customer PID: 7535) ORDER #84/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #84/100
+(Customer PID: 7536) ORDER #84/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #84/100
+(Customer PID: 7537) ORDER #84/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #84/100
+(Customer PID: 7534) ORDER #84/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #84/100
+(Customer PID: 7533) ORDER #84/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #84/100
+(Customer PID: 7532) ORDER #84/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #84/100
+(Customer PID: 7531) ORDER #84/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #84/100
+(Customer PID: 7530) ORDER #84/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #84/100
+(Customer PID: 7529) ORDER #84/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #86/100
+(Customer PID: 7527) ORDER #86/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #85/100
+(Customer PID: 7535) ORDER #85/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #85/100
+(Customer PID: 7536) ORDER #85/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #85/100
+(Customer PID: 7537) ORDER #85/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #85/100
+(Customer PID: 7534) ORDER #85/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #85/100
+(Customer PID: 7533) ORDER #85/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #85/100
+(Customer PID: 7532) ORDER #85/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #85/100
+(Customer PID: 7531) ORDER #85/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #85/100
+(Customer PID: 7530) ORDER #85/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #85/100
+(Customer PID: 7529) ORDER #85/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #87/100
+(Customer PID: 7527) ORDER #87/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #86/100
+(Customer PID: 7535) ORDER #86/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #86/100
+(Customer PID: 7536) ORDER #86/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #86/100
+(Customer PID: 7537) ORDER #86/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #86/100
+(Customer PID: 7534) ORDER #86/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #86/100
+(Customer PID: 7533) ORDER #86/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #86/100
+(Customer PID: 7532) ORDER #86/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #86/100
+(Customer PID: 7531) ORDER #86/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #86/100
+(Customer PID: 7530) ORDER #86/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #86/100
+(Customer PID: 7529) ORDER #86/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #88/100
+(Customer PID: 7527) ORDER #88/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #87/100
+(Customer PID: 7535) ORDER #87/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #87/100
+(Customer PID: 7536) ORDER #87/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #87/100
+(Customer PID: 7537) ORDER #87/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #87/100
+(Customer PID: 7534) ORDER #87/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #87/100
+(Customer PID: 7533) ORDER #87/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #87/100
+(Customer PID: 7532) ORDER #87/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #87/100
+(Customer PID: 7531) ORDER #87/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #87/100
+(Customer PID: 7530) ORDER #87/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #87/100
+(Customer PID: 7529) ORDER #87/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #89/100
+(Customer PID: 7527) ORDER #89/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #88/100
+(Customer PID: 7535) ORDER #88/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #88/100
+(Customer PID: 7536) ORDER #88/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #88/100
+(Customer PID: 7537) ORDER #88/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #88/100
+(Customer PID: 7534) ORDER #88/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #88/100
+(Customer PID: 7533) ORDER #88/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #88/100
+(Customer PID: 7532) ORDER #88/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #88/100
+(Customer PID: 7531) ORDER #88/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #88/100
+(Customer PID: 7530) ORDER #88/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #88/100
+(Customer PID: 7529) ORDER #88/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #90/100
+(Customer PID: 7527) ORDER #90/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #89/100
+(Customer PID: 7535) ORDER #89/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #89/100
+(Customer PID: 7536) ORDER #89/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #89/100
+(Customer PID: 7537) ORDER #89/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #89/100
+(Customer PID: 7534) ORDER #89/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #89/100
+(Customer PID: 7533) ORDER #89/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #89/100
+(Customer PID: 7532) ORDER #89/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #89/100
+(Customer PID: 7531) ORDER #89/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #89/100
+(Customer PID: 7530) ORDER #89/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #89/100
+(Customer PID: 7529) ORDER #89/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #91/100
+(Customer PID: 7527) ORDER #91/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #90/100
+(Customer PID: 7535) ORDER #90/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #90/100
+(Customer PID: 7536) ORDER #90/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #90/100
+(Customer PID: 7537) ORDER #90/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #90/100
+(Customer PID: 7534) ORDER #90/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #90/100
+(Customer PID: 7533) ORDER #90/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #90/100
+(Customer PID: 7532) ORDER #90/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #90/100
+(Customer PID: 7531) ORDER #90/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #90/100
+(Customer PID: 7530) ORDER #90/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #90/100
+(Customer PID: 7529) ORDER #90/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #92/100
+(Customer PID: 7527) ORDER #92/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #91/100
+(Customer PID: 7535) ORDER #91/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #91/100
+(Customer PID: 7536) ORDER #91/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #91/100
+(Customer PID: 7537) ORDER #91/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #91/100
+(Customer PID: 7534) ORDER #91/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #91/100
+(Customer PID: 7533) ORDER #91/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #91/100
+(Customer PID: 7532) ORDER #91/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #91/100
+(Customer PID: 7531) ORDER #91/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #91/100
+(Customer PID: 7530) ORDER #91/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #91/100
+(Customer PID: 7529) ORDER #91/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #93/100
+(Customer PID: 7527) ORDER #93/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #92/100
+(Customer PID: 7535) ORDER #92/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #92/100
+(Customer PID: 7536) ORDER #92/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #92/100
+(Customer PID: 7537) ORDER #92/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #92/100
+(Customer PID: 7534) ORDER #92/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #92/100
+(Customer PID: 7533) ORDER #92/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #92/100
+(Customer PID: 7532) ORDER #92/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #92/100
+(Customer PID: 7531) ORDER #92/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #92/100
+(Customer PID: 7530) ORDER #92/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #92/100
+(Customer PID: 7529) ORDER #92/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #94/100
+(Customer PID: 7527) ORDER #94/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #93/100
+(Customer PID: 7535) ORDER #93/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #93/100
+(Customer PID: 7536) ORDER #93/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #93/100
+(Customer PID: 7537) ORDER #93/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #93/100
+(Customer PID: 7534) ORDER #93/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #93/100
+(Customer PID: 7533) ORDER #93/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #93/100
+(Customer PID: 7532) ORDER #93/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #93/100
+(Customer PID: 7531) ORDER #93/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #93/100
+(Customer PID: 7530) ORDER #93/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #93/100
+(Customer PID: 7529) ORDER #93/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #95/100
+(Customer PID: 7527) ORDER #95/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #94/100
+(Customer PID: 7535) ORDER #94/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #94/100
+(Customer PID: 7536) ORDER #94/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #94/100
+(Customer PID: 7537) ORDER #94/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #94/100
+(Customer PID: 7534) ORDER #94/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #94/100
+(Customer PID: 7533) ORDER #94/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #94/100
+(Customer PID: 7532) ORDER #94/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #94/100
+(Customer PID: 7531) ORDER #94/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #94/100
+(Customer PID: 7530) ORDER #94/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #94/100
+(Customer PID: 7529) ORDER #94/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #96/100
+(Customer PID: 7527) ORDER #96/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #95/100
+(Customer PID: 7535) ORDER #95/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #95/100
+(Customer PID: 7536) ORDER #95/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #95/100
+(Customer PID: 7537) ORDER #95/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #95/100
+(Customer PID: 7534) ORDER #95/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #95/100
+(Customer PID: 7533) ORDER #95/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #95/100
+(Customer PID: 7532) ORDER #95/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #95/100
+(Customer PID: 7531) ORDER #95/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #95/100
+(Customer PID: 7530) ORDER #95/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #95/100
+(Customer PID: 7529) ORDER #95/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #97/100
+(Customer PID: 7527) ORDER #97/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #96/100
+(Customer PID: 7535) ORDER #96/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #96/100
+(Customer PID: 7536) ORDER #96/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #96/100
+(Customer PID: 7537) ORDER #96/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #96/100
+(Customer PID: 7534) ORDER #96/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #96/100
+(Customer PID: 7533) ORDER #96/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #96/100
+(Customer PID: 7532) ORDER #96/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #96/100
+(Customer PID: 7531) ORDER #96/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #96/100
+(Customer PID: 7530) ORDER #96/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #96/100
+(Customer PID: 7529) ORDER #96/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #98/100
+(Customer PID: 7527) ORDER #98/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #97/100
+(Customer PID: 7535) ORDER #97/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #97/100
+(Customer PID: 7536) ORDER #97/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #97/100
+(Customer PID: 7537) ORDER #97/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #97/100
+(Customer PID: 7534) ORDER #97/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #97/100
+(Customer PID: 7533) ORDER #97/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #97/100
+(Customer PID: 7532) ORDER #97/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #97/100
+(Customer PID: 7531) ORDER #97/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #97/100
+(Customer PID: 7530) ORDER #97/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #97/100
+(Customer PID: 7529) ORDER #97/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #99/100
+(Customer PID: 7527) ORDER #99/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #98/100
+(Customer PID: 7535) ORDER #98/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #98/100
+(Customer PID: 7536) ORDER #98/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #98/100
+(Customer PID: 7537) ORDER #98/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #98/100
+(Customer PID: 7534) ORDER #98/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #98/100
+(Customer PID: 7533) ORDER #98/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #98/100
+(Customer PID: 7532) ORDER #98/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #98/100
+(Customer PID: 7531) ORDER #98/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #98/100
+(Customer PID: 7530) ORDER #98/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #98/100
+(Customer PID: 7529) ORDER #98/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7527) PLACED THEIR ORDER #100/100
+(Customer PID: 7527) HAS SHIPPED 100/100 ORDERS, Terminating . . .-----------------------------
+(Customer PID: 7527) ORDER #100/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #99/100
+(Customer PID: 7535) ORDER #99/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #99/100
+(Customer PID: 7536) ORDER #99/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #99/100
+(Customer PID: 7537) ORDER #99/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #99/100
+(Customer PID: 7534) ORDER #99/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #99/100
+(Customer PID: 7533) ORDER #99/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #99/100
+(Customer PID: 7532) ORDER #99/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #99/100
+(Customer PID: 7531) ORDER #99/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #99/100
+(Customer PID: 7530) ORDER #99/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #99/100
+(Customer PID: 7529) ORDER #99/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7535) PLACED THEIR ORDER #100/100
+(Customer PID: 7535) HAS SHIPPED 100/100 ORDERS, Terminating . . .-----------------------------
+(Customer PID: 7535) ORDER #100/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7536) PLACED THEIR ORDER #100/100
+(Customer PID: 7536) HAS SHIPPED 100/100 ORDERS, Terminating . . .-----------------------------
+(Customer PID: 7536) ORDER #100/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7537) PLACED THEIR ORDER #100/100
+(Customer PID: 7537) HAS SHIPPED 100/100 ORDERS, Terminating . . .-----------------------------
+(Customer PID: 7537) ORDER #100/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7534) PLACED THEIR ORDER #100/100
+(Customer PID: 7534) HAS SHIPPED 100/100 ORDERS, Terminating . . .-----------------------------
+(Customer PID: 7534) ORDER #100/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7533) PLACED THEIR ORDER #100/100
+(Customer PID: 7533) HAS SHIPPED 100/100 ORDERS, Terminating . . .-----------------------------
+(Customer PID: 7533) ORDER #100/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7532) PLACED THEIR ORDER #100/100
+(Customer PID: 7532) HAS SHIPPED 100/100 ORDERS, Terminating . . .-----------------------------
+(Customer PID: 7532) ORDER #100/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7531) PLACED THEIR ORDER #100/100
+(Customer PID: 7531) HAS SHIPPED 100/100 ORDERS, Terminating . . .-----------------------------
+(Customer PID: 7531) ORDER #100/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7530) PLACED THEIR ORDER #100/100
+(Customer PID: 7530) HAS SHIPPED 100/100 ORDERS, Terminating . . .-----------------------------
+(Customer PID: 7530) ORDER #100/100 WAS FUFILLED
+------------------------------------------------
+(Customer PID: 7529) PLACED THEIR ORDER #100/100
+(Customer PID: 7529) HAS SHIPPED 100/100 ORDERS, Terminating . . .-----------------------------
+(Customer PID: 7529) ORDER #100/100 WAS FUFILLED
+------------------------------------------------
+
+Cleaning up and terminating . . .
+]0;resonance@resonance-VirtualBox: ~/Desktop/Final semaphore[01;32mresonance@resonance-VirtualBox[00m:[01;34m~/Desktop/Final semaphore[00m$ exit
+exit
+
+Script done on 2020-05-04 14:20:13-0700
